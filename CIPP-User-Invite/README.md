@@ -26,7 +26,7 @@ This is a workflow that takes Microsoft CSP users and invites them to [CIPP](htt
 - CIPP Invite Generator - Per User
   - This sub-workflow is called for each user selected on the form. It will create an invite link for SWA with the selected role and send a welcome message to the user.
 - Option Generator - Uninvited CIPP Users
-  - This workflow gets a list of all users in Microsoft CSP that are not current in CIPP.
+  - This workflow gets a list of all users in Microsoft CSP that are not currently in CIPP.
 - Slack - Send Approval Request to User
   - This sub-workflow opens up a conversation with a Slack user by email address and sends a confirmation message
 - Slack - Send Message to User
