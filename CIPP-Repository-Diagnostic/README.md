@@ -1,4 +1,4 @@
-# CIPP User Invite
+# CIPP Repository Diagnostic
 
 ## Description
 
